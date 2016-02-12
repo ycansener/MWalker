@@ -1,0 +1,5 @@
+C:\TFS_YS\Thesis\Dev\YS\Src\MasterThesisWindowsApplication\MatrixWalker\bin\Debug\MatrixWalker.dll
+C:\TFS_YS\Thesis\Dev\YS\Src\MasterThesisWindowsApplication\MatrixWalker\bin\Debug\MatrixWalker.pdb
+C:\TFS_YS\Thesis\Dev\YS\Src\MasterThesisWindowsApplication\MatrixWalker\obj\Debug\MatrixWalker.dll
+C:\TFS_YS\Thesis\Dev\YS\Src\MasterThesisWindowsApplication\MatrixWalker\obj\Debug\MatrixWalker.pdb
+C:\TFS_YS\Thesis\Dev\YS\Src\MasterThesisWindowsApplication\MatrixWalker\obj\Debug\MatrixWalker.csprojResolveAssemblyReference.cache
